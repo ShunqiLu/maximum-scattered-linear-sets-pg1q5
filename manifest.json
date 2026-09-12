@@ -1,0 +1,105 @@
+{
+  "schema": "academic-public-release/v1",
+  "project": {
+    "title": "Completing the classification of maximum scattered linear sets in PG(1,q^5)",
+    "author": "Shunqi Lu",
+    "repository": "https://github.com/ShunqiLu/maximum-scattered-linear-sets-pg1q5",
+    "doi": "10.5281/zenodo.22232593"
+  },
+  "layout": {
+    "paper/": "Preprint and supplementary appendix PDFs",
+    "code/": "Mathematical reproducibility programs",
+    "data/": "Inputs and reference results"
+  },
+  "entry_point": "code/run_checks.py",
+  "paper": [
+    {
+      "path": "paper/classification_maximum_scattered_linear_sets_PG1q5.pdf",
+      "label": "Preprint PDF, including appendices",
+      "pages": 28,
+      "sha256": "1E81F0452D1CCF4A3E6151BB224A11442E3E0A3A916045795B549C1F46B5C980"
+    }
+  ],
+  "rights": {
+    "title": "All rights reserved",
+    "description": "\u00a9 2026 Shunqi Lu. All rights reserved.",
+    "copyright": "\u00a9 2026 Shunqi Lu. All rights reserved.",
+    "path": "LICENSE"
+  },
+  "inventory_excludes": [
+    "manifest.json",
+    "SHA256SUMS.txt"
+  ],
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 8,
+      "sha256": "705FD4D6451A31D36B3DF7DE96F83F30AC976C9B4A6D1E51671D8E2F33E2D0DA"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 429,
+      "sha256": "E4A2696750E14112E4052F0C08056FE8869727FCC353A06C0A53146F4FF5CCBF"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 953,
+      "sha256": "E7629DC87305C41211DB119219E31F8E2D8072026B017A16DFE1D60CB16D51B9"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 61,
+      "sha256": "B3A7221E04D8D5845CAB81A82F02B183644ACFCC6B1B34BDCC03858DC07F6D09"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2308,
+      "sha256": "9768B78A031B5E89F50EBDC5DC0786890BA64479CE1F8FAAACB52D7FFA3C7C89"
+    },
+    {
+      "path": "code/README.md",
+      "bytes": 2220,
+      "sha256": "68A414903BB55E61598A8BB6BAF0AADB21835B8E895F7A827DD0CBF71C26000F"
+    },
+    {
+      "path": "code/pyproject.toml",
+      "bytes": 272,
+      "sha256": "D1A1B8E918954BEDCF68CA9CC813CE3AA2AAEB8054F7E41143FD3962AE5DB333"
+    },
+    {
+      "path": "code/run_checks.py",
+      "bytes": 3942,
+      "sha256": "6FC8B682F116253AC26F0ACEFE7F596F6F18E6EDF7DE574DCFA35725CEDDEFF4"
+    },
+    {
+      "path": "code/uv.lock",
+      "bytes": 10916,
+      "sha256": "7EFCCDDBBEB1070EBE341D0DB80CAD9A54266FD2A5123B6843AB5908D2B0D09B"
+    },
+    {
+      "path": "code/verify_small_fields.py",
+      "bytes": 11032,
+      "sha256": "33113AA315B18D5BA0C6E5A16BCAB8ED4893C041027E45C015D3B48AF4E90AB6"
+    },
+    {
+      "path": "code/verify_symbolic_identities.py",
+      "bytes": 12490,
+      "sha256": "846180D59008128F6BED4AEF9270BCC07DD2948D153A0F8927FDE62B16BD8CEB"
+    },
+    {
+      "path": "data/README.md",
+      "bytes": 769,
+      "sha256": "EA1073C8189ACA0BE6EAA6FAB68E675A1813AC8832407D4B0934553FACFF8E27"
+    },
+    {
+      "path": "data/reference_results.json",
+      "bytes": 4710,
+      "sha256": "D603EE1DC6F2EC7DA60FC929A00F53813828AC5B50B71F9D04772F749F92617B"
+    },
+    {
+      "path": "paper/classification_maximum_scattered_linear_sets_PG1q5.pdf",
+      "bytes": 460847,
+      "sha256": "1E81F0452D1CCF4A3E6151BB224A11442E3E0A3A916045795B549C1F46B5C980"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this preprint or its reproducibility materials, please cite the article below."
+title: "Reproducibility materials for Completing the classification of maximum scattered linear sets in PG(1,q^5)"
+type: software
+repository-code: "https://github.com/ShunqiLu/maximum-scattered-linear-sets-pg1q5"
+license-url: "https://github.com/ShunqiLu/maximum-scattered-linear-sets-pg1q5/blob/main/LICENSE"
+authors:
+  - family-names: Lu
+    given-names: Shunqi
+    orcid: "https://orcid.org/0009-0005-8251-2070"
+    email: "32023210246@cueb.edu.cn"
+    affiliation: "School of Artificial Intelligence, Capital University of Economics and Business"
+preferred-citation:
+  type: article
+  title: "Completing the classification of maximum scattered linear sets in PG(1,q^5)"
+  doi: "10.5281/zenodo.22232593"
+  authors:
+    - family-names: Lu
+      given-names: Shunqi
+      orcid: "https://orcid.org/0009-0005-8251-2070"
+  year: 2026

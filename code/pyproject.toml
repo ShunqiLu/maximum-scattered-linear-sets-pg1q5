@@ -1,0 +1,15 @@
+[project]
+name = "c3c4-verification"
+version = "0.1.0"
+requires-python = "==3.12.13"
+dependencies = [
+    "galois==0.4.11",
+    "llvmlite==0.49.0",
+    "numba==0.67.0",
+    "numpy==2.3.5",
+    "sympy==1.14.0",
+    "typing-extensions==4.16.0",
+]
+
+[tool.uv]
+package = false

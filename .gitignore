@@ -1,0 +1,21 @@
+# Public releases use an explicit file allowlist.
+*
+!/code/
+!/data/
+!/paper/
+!/.gitattributes
+!/.gitignore
+!/CITATION.cff
+!/LICENSE
+!/README.md
+!/SHA256SUMS.txt
+!/code/README.md
+!/code/pyproject.toml
+!/code/run_checks.py
+!/code/uv.lock
+!/code/verify_small_fields.py
+!/code/verify_symbolic_identities.py
+!/data/README.md
+!/data/reference_results.json
+!/manifest.json
+!/paper/classification_maximum_scattered_linear_sets_PG1q5.pdf
