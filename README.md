@@ -5,6 +5,8 @@ the classification of maximum scattered linear sets in PG(1,q^5).
 
 ## Paper
 
+[Paper page and abstract](https://shunqilu.github.io/publications/maximum-scattered-linear-sets-pg1q5.html) · [Direct PDF](https://shunqilu.github.io/publications/classification_maximum_scattered_linear_sets_PG1q5.pdf).
+
 - [Preprint PDF, including appendices](paper/classification_maximum_scattered_linear_sets_PG1q5.pdf).
 
 Archived preprint: [DOI 10.5281/zenodo.22232593](https://doi.org/10.5281/zenodo.22232593).
